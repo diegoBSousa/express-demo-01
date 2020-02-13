@@ -9,7 +9,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre a demonstração
 
 Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
 
